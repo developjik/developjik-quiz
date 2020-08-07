@@ -1,1 +1,1 @@
-web: gunicorn myapi.wdgi
+web: gunicorn myapi.wsgi
